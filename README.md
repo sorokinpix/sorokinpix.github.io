@@ -1,2 +1,2 @@
-# sorokinpix.github.io
+# Sorokin Dan
 My homework for GloAcademy
