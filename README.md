@@ -3,7 +3,7 @@
 # Даниил Сорокин
 Мои домашние задания для GloAcademy
 
-[Урок 2](https://sorokinpix.github.io/lesson_2/ "Моё домашнее задание урока №2") - Работа с графикой для разработчика
+[Урок 2](https://github.com/sorokinpix/sorokinpix.github.io/tree/main/lesson_2 "Моё домашнее задание урока №2") - Работа с графикой для разработчика
 
 [Урок 4](https://sorokinpix.github.io/lesson_4/ "Моё домашнее задание урока №4") - Знакомство с основами HTML
 
