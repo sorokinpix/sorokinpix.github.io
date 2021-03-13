@@ -1,16 +1,6 @@
 * {
 box-sizing: border-box;
 }
-
-body {
-	position: fixed;
-	top: 0;
-	left: 0;
-	height: 100%;
-	width: 100%;
-	z-index: -1;
-}
-
 li {
 	margin-bottom: 10px;
 }
@@ -39,6 +29,7 @@ text-decoration: underline;
 
 .body1 {
 	border: 1px	solid #000;
+	margin: 10px;
 } 
 
 .head {
@@ -48,13 +39,15 @@ margin: 10px;
 
 .menu {
 	border: 1px solid #000;
-	margin-left: 22px;
+	width: 200px;
+	margin-left: 10px;
 	display: inline-block;
  vertical-align: top;
 }
 
 .text {
 	border: 1px solid #000;
+	width: 1161px;
 	margin-right: 10px;
 	display: inline-block;
 	vertical-align: top;
