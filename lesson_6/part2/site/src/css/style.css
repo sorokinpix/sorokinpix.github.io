@@ -1,0 +1,13 @@
+.main {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.block {
+	background-color: white;
+	border: 2px solid gray;
+	width: 300px;
+	height: 400px;
+	padding: 20px 30px; 
+}

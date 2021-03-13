@@ -1,0 +1,50 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #aeaeae;
+}
+
+a {
+	color: white;
+  margin-right: 50px;
+  text-decoration: none;
+}
+
+img {
+	margin-left: 10px;
+}
+
+.logo {
+	background-color: black;
+	height: 100px;
+	display: inline-block;
+	width: 40%;
+	position: fixed;
+	top: 0;
+}
+
+.header {
+	background-color: black;
+	height: 100px;
+	display: inline-block;
+	left: 40%;
+	width: 60%;
+	margin-left: -4px;
+	position: fixed;
+	top: 0;
+}
+
+.text {
+	margin-top: 130px;
+}
+
+.img {
+}
+
+.nav {
+	text-align: center;
+	margin-top: 40px;
+
+}
