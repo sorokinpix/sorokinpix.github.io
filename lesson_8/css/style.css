@@ -1,0 +1,20 @@
+* {
+	box-sizing: border-box;
+}
+
+
+h1 {
+	text-align: center;
+	margin: 70px auto 50px auto;
+	font-size: 36px;
+}
+
+p {
+	font-size: 18px;
+	margin: 30px auto 30px auto;
+	font-weight: 500;
+}
+
+.row {
+	text-align: center;
+}
