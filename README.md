@@ -19,4 +19,4 @@
 
 [Урок 11](https://github.com/sorokinpix/sorokinpix.github.io/tree/main/lesson_11 "Моё домашнее задание урока №11") - Сниппеты
 
-[Урок 13](https://github.com/sorokinpix/sorokinpix.github.io/tree/main/lesson_13 "Моё домашнее задание урока №13") - Pixel Perfect
+[Урок 13](sorokinpix.github.io/lesson_13 "Моё домашнее задание урока №13") - Pixel Perfect
