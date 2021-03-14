@@ -3,7 +3,7 @@
 }
 
 body {
-	background-image: url(/img/bg13.jpg); background-attachment: fixed;
+	background-image: url(../img/background.png); background-attachment: fixed;
 	font-family: Arial, sans-serif;
 	font-size: 12px;
 	font-weight: bold;
@@ -60,7 +60,7 @@ margin-top: 51.5px;
 
 .input-form input {
 	font-style: italic;
-	background-image: url(/img/bg13.jpg);
+	background-image: url(../img/background.png);
 	border: 1px solid #cfdede;
 	margin-left: 28px;
 	height: 32px;
