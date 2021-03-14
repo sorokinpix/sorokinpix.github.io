@@ -18,3 +18,5 @@
 [Урок 10](https://github.com/sorokinpix/sorokinpix.github.io/tree/main/lesson_10/css "Моё домашнее задание урока №10") - Препроцессор LESS для CSS
 
 [Урок 11](https://github.com/sorokinpix/sorokinpix.github.io/tree/main/lesson_11 "Моё домашнее задание урока №11") - Сниппеты
+
+[Урок 13](https://github.com/sorokinpix/sorokinpix.github.io/tree/main/lesson_13 "Моё домашнее задание урока №13") - Pixel Perfect
