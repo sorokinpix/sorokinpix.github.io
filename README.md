@@ -20,3 +20,5 @@
 [Урок 11](https://github.com/sorokinpix/sorokinpix.github.io/tree/main/lesson_11 "Моё домашнее задание урока №11") - Сниппеты
 
 [Урок 13](https://sorokinpix.github.io/lesson_13/ "Моё домашнее задание урока №13") - Pixel Perfect
+
+[Практика 1](https://sorokinpix.github.io/lesson_practic_1/src/ "Моё домашнее задание практики часть 1") - Практика №1
